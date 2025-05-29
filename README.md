@@ -10,6 +10,12 @@ A Model Context Protocol (MCP) server that provides safe, read-only access to Po
 - **Security First**: Blocks dangerous SQL patterns and enforces transaction safety
 - **Easy Integration**: Works with Claude Desktop and other MCP-compatible clients
 
+![Example Usage](example_1.png)
+*Example of the PostgreSQL MCP server in action with Claude Desktop*
+
+![Query Example](example_2.png)
+*Example of querying database tables and viewing results*
+
 ## 📋 Prerequisites
 
 - Node.js (v16 or higher)
